@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "qc-class5-0001",
+    "language": "fr",
+    "topic": "signals",
+    "question": "Sur l’île de Montréal, peut-on tourner à droite au feu rouge?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non"
+      },
+      {
+        "id": "b",
+        "text": "Oui, après avoir ralenti"
+      },
+      {
+        "id": "c",
+        "text": "Oui, si aucun piéton n’est visible"
+      },
+      {
+        "id": "d",
+        "text": "Oui, après minuit"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0002",
+    "language": "fr",
+    "topic": "signals",
+    "question": "Là où le virage à droite au feu rouge est permis, que faut-il faire d’abord?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Faire un arrêt complet"
+      },
+      {
+        "id": "b",
+        "text": "Klaxonner"
+      },
+      {
+        "id": "c",
+        "text": "Entrer lentement dans le passage pour piétons"
+      },
+      {
+        "id": "d",
+        "text": "Accélérer avant de vérifier"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0003",
+    "language": "fr",
+    "topic": "signals",
+    "question": "À un feu rouge où le virage à droite est permis, faut-il obligatoirement tourner?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non, seulement si on le choisit et si la voie est libre"
+      },
+      {
+        "id": "b",
+        "text": "Oui, dès que le conducteur derrière klaxonne"
+      },
+      {
+        "id": "c",
+        "text": "Oui, si aucun panneau ne l’interdit"
+      },
+      {
+        "id": "d",
+        "text": "Oui, après trois secondes"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0004",
+    "language": "fr",
+    "topic": "signals",
+    "question": "Avant de tourner à droite au rouge là où c’est permis, à qui faut-il céder le passage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Aux usagers engagés ou sur le point de s’engager dans l’intersection"
+      },
+      {
+        "id": "b",
+        "text": "Seulement aux véhicules venant de gauche"
+      },
+      {
+        "id": "c",
+        "text": "Seulement aux piétons déjà à mi-chemin"
+      },
+      {
+        "id": "d",
+        "text": "À personne après un arrêt complet"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0005",
+    "language": "fr",
+    "topic": "school_bus",
+    "question": "Un autobus scolaire active ses feux rouges intermittents. Que doit faire le conducteur qui le suit?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "S’immobiliser à plus de 5 mètres"
+      },
+      {
+        "id": "b",
+        "text": "Dépasser lentement par la gauche"
+      },
+      {
+        "id": "c",
+        "text": "S’arrêter seulement si des enfants sont visibles"
+      },
+      {
+        "id": "d",
+        "text": "Klaxonner et continuer"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0006",
+    "language": "fr",
+    "topic": "school_bus",
+    "question": "Après s’être arrêté pour un autobus scolaire aux feux rouges intermittents, quand peut-on repartir?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Quand les feux sont éteints, le panneau replié et la voie libre"
+      },
+      {
+        "id": "b",
+        "text": "Dès que le premier enfant monte"
+      },
+      {
+        "id": "c",
+        "text": "Quand le conducteur ouvre la porte"
+      },
+      {
+        "id": "d",
+        "text": "Après cinq secondes"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0007",
+    "language": "fr",
+    "topic": "school_bus",
+    "question": "Un autobus scolaire venant en sens inverse a ses feux rouges intermittents et un terre-plein sépare les voies. Faut-il s’arrêter pour cet autobus?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non, l’exception du terre-plein s’applique"
+      },
+      {
+        "id": "b",
+        "text": "Oui, toujours"
+      },
+      {
+        "id": "c",
+        "text": "Oui, sauf s’il y a deux voies"
+      },
+      {
+        "id": "d",
+        "text": "Seulement la nuit"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0008",
+    "language": "fr",
+    "topic": "school_bus",
+    "question": "Un autobus scolaire allume ses feux jaunes avant de s’arrêter. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Se préparer à s’arrêter"
+      },
+      {
+        "id": "b",
+        "text": "Dépasser immédiatement l’autobus"
+      },
+      {
+        "id": "c",
+        "text": "Accélérer pour éviter l’arrêt"
+      },
+      {
+        "id": "d",
+        "text": "Supposer que les enfants ont déjà traversé"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0009",
+    "language": "fr",
+    "topic": "cyclists",
+    "question": "Dans une zone de 50 km/h, quelle distance faut-il laisser en dépassant un cycliste?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Au moins 1 mètre, en ralentissant"
+      },
+      {
+        "id": "b",
+        "text": "30 centimètres"
+      },
+      {
+        "id": "c",
+        "text": "Au moins 1,5 mètre dans toutes les zones"
+      },
+      {
+        "id": "d",
+        "text": "Aucune distance si le cycliste est sur l’accotement"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0010",
+    "language": "fr",
+    "topic": "cyclists",
+    "question": "Dans une zone de plus de 50 km/h, quelle distance faut-il laisser en dépassant un cycliste?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Au moins 1,5 mètre, en ralentissant"
+      },
+      {
+        "id": "b",
+        "text": "30 centimètres"
+      },
+      {
+        "id": "c",
+        "text": "Au moins 1 mètre"
+      },
+      {
+        "id": "d",
+        "text": "Aucune distance si on klaxonne"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0011",
+    "language": "fr",
+    "topic": "cyclists",
+    "question": "Peut-on franchir une ligne continue pour dépasser un cycliste?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Oui, si la manœuvre peut être effectuée sans danger"
+      },
+      {
+        "id": "b",
+        "text": "Jamais, en aucune circonstance"
+      },
+      {
+        "id": "c",
+        "text": "Oui, sans vérifier la circulation en sens inverse"
+      },
+      {
+        "id": "d",
+        "text": "Seulement si le cycliste fait signe"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0012",
+    "language": "fr",
+    "topic": "cyclists",
+    "question": "Avant d’ouvrir la portière d’un véhicule stationné, que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Vérifier la présence de cyclistes, y compris dans l’angle mort"
+      },
+      {
+        "id": "b",
+        "text": "L’ouvrir rapidement pour avertir les cyclistes"
+      },
+      {
+        "id": "c",
+        "text": "Se fier uniquement au rétroviseur intérieur"
+      },
+      {
+        "id": "d",
+        "text": "Klaxonner et l’ouvrir"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0013",
+    "language": "fr",
+    "topic": "pedestrians",
+    "question": "Un piéton attend à un passage marqué et manifeste clairement son intention de traverser. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "S’arrêter et lui céder le passage"
+      },
+      {
+        "id": "b",
+        "text": "Continuer parce que le piéton n’a pas quitté le trottoir"
+      },
+      {
+        "id": "c",
+        "text": "Klaxonner pour le faire attendre"
+      },
+      {
+        "id": "d",
+        "text": "Accélérer dans le passage"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "pedestrian"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0014",
+    "language": "fr",
+    "topic": "pedestrians",
+    "question": "Que signifie une main orange fixe au feu pour piétons?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ne pas commencer à traverser"
+      },
+      {
+        "id": "b",
+        "text": "Traverser immédiatement"
+      },
+      {
+        "id": "c",
+        "text": "Traverser seulement en courant"
+      },
+      {
+        "id": "d",
+        "text": "Les véhicules doivent attendre sans limite"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "pedestrian"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0015",
+    "language": "fr",
+    "topic": "conditions",
+    "question": "Que doit faire un conducteur lorsque la chaussée est glissante?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Réduire sa vitesse et l’adapter aux conditions"
+      },
+      {
+        "id": "b",
+        "text": "Maintenir la limite affichée quelles que soient les conditions"
+      },
+      {
+        "id": "c",
+        "text": "Freiner brusquement dans chaque courbe"
+      },
+      {
+        "id": "d",
+        "text": "Suivre de plus près"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "winter"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0016",
+    "language": "fr",
+    "topic": "conditions",
+    "question": "Pour une automobile immatriculée au Québec, quand les pneus d’hiver sont-ils généralement obligatoires?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Du 1er décembre au 15 mars inclusivement"
+      },
+      {
+        "id": "b",
+        "text": "Du 1er novembre au 30 avril"
+      },
+      {
+        "id": "c",
+        "text": "Seulement lorsqu’il neige"
+      },
+      {
+        "id": "d",
+        "text": "Du 1er janvier au 28 février"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "winterprep"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0017",
+    "language": "fr",
+    "topic": "occupants",
+    "question": "En règle générale, jusqu’à quand un enfant doit-il utiliser un siège d’auto approprié?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Jusqu’à une taille de 145 cm ou l’âge de 9 ans"
+      },
+      {
+        "id": "b",
+        "text": "Jusqu’à 18 ans, quelle que soit sa taille"
+      },
+      {
+        "id": "c",
+        "text": "Seulement jusqu’à ce que l’enfant marche"
+      },
+      {
+        "id": "d",
+        "text": "Jusqu’à 145 cm et 12 ans"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "child"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0018",
+    "language": "fr",
+    "topic": "occupants",
+    "question": "Où doit passer la partie diagonale d’une ceinture bien ajustée?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Sur le milieu de l’épaule et la poitrine"
+      },
+      {
+        "id": "b",
+        "text": "Sous le bras"
+      },
+      {
+        "id": "c",
+        "text": "Derrière le dos"
+      },
+      {
+        "id": "d",
+        "text": "Sur le cou"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "belt"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0019",
+    "language": "fr",
+    "topic": "impairment",
+    "question": "L’alcool peut-il affaiblir la conduite avant une alcoolémie de 0,08?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Oui, les facultés peuvent être affaiblies en dessous de ce seuil"
+      },
+      {
+        "id": "b",
+        "text": "Non, l’affaiblissement commence exactement à 0,08"
+      },
+      {
+        "id": "c",
+        "text": "Non, le café empêche l’affaiblissement"
+      },
+      {
+        "id": "d",
+        "text": "Seulement après minuit"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "alcohol"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0020",
+    "language": "fr",
+    "topic": "impairment",
+    "question": "La règle du zéro alcool s’applique-t-elle à une personne de moins de 22 ans ayant un permis régulier?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Oui"
+      },
+      {
+        "id": "b",
+        "text": "Non, seulement aux apprentis conducteurs"
+      },
+      {
+        "id": "c",
+        "text": "Non, si elle conduit de jour"
+      },
+      {
+        "id": "d",
+        "text": "Seulement si elle transporte des passagers"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "young"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0021",
+    "language": "fr",
+    "topic": "sharing",
+    "question": "Un véhicule d’urgence approche avec ses gyrophares ou sa sirène en marche. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Lui céder le passage"
+      },
+      {
+        "id": "b",
+        "text": "Accélérer pour dégager l’intersection"
+      },
+      {
+        "id": "c",
+        "text": "Maintenir sa vitesse et bloquer sa voie"
+      },
+      {
+        "id": "d",
+        "text": "Le suivre de près"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "courtesy"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0022",
+    "language": "fr",
+    "topic": "sharing",
+    "question": "Sur une route limitée à 70 km/h ou moins, un autobus signale son intention de réintégrer votre voie. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Céder le passage à l’autobus"
+      },
+      {
+        "id": "b",
+        "text": "Accélérer pour l’empêcher de réintégrer la voie"
+      },
+      {
+        "id": "c",
+        "text": "Klaxonner et garder sa position"
+      },
+      {
+        "id": "d",
+        "text": "Céder seulement s’il s’agit d’un autobus scolaire"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "courtesy"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0023",
+    "language": "fr",
+    "topic": "signs",
+    "question": "Que faut-il faire devant le panneau illustré?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Faire un arrêt complet"
+      },
+      {
+        "id": "b",
+        "text": "Ralentir sans s’arrêter"
+      },
+      {
+        "id": "c",
+        "text": "S’arrêter seulement si un autre véhicule approche"
+      },
+      {
+        "id": "d",
+        "text": "Passer après avoir klaxonné"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/stop.svg",
+      "asset_id": "stop"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0024",
+    "language": "fr",
+    "topic": "signs",
+    "question": "Que signifie le panneau illustré?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "L’entrée est interdite"
+      },
+      {
+        "id": "b",
+        "text": "Le stationnement est permis"
+      },
+      {
+        "id": "c",
+        "text": "L’arrêt est facultatif"
+      },
+      {
+        "id": "d",
+        "text": "La route est réservée aux autobus"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/no-entry.svg",
+      "asset_id": "no-entry"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0025",
+    "language": "fr",
+    "topic": "signals",
+    "question": "À une intersection, que faut-il faire devant un feu rouge clignotant?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "S’arrêter et céder le passage au besoin avant de repartir"
+      },
+      {
+        "id": "b",
+        "text": "Ralentir sans s’arrêter"
+      },
+      {
+        "id": "c",
+        "text": "Passer immédiatement"
+      },
+      {
+        "id": "d",
+        "text": "Le traiter comme un feu vert"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/flashing-red.svg",
+      "asset_id": "flashing-red"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0026",
+    "language": "fr",
+    "topic": "signals",
+    "question": "Que faut-il faire devant un feu jaune clignotant?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ralentir et céder le passage aux usagers déjà engagés dans l’intersection"
+      },
+      {
+        "id": "b",
+        "text": "Toujours s’arrêter et attendre le vert"
+      },
+      {
+        "id": "c",
+        "text": "Accélérer pour dégager l’intersection"
+      },
+      {
+        "id": "d",
+        "text": "Ignorer les autres usagers"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/flashing-yellow.svg",
+      "asset_id": "flashing-yellow"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0027",
+    "language": "fr",
+    "topic": "signals",
+    "question": "Le feu passe au jaune à votre approche. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Ralentir et s’arrêter avant l’intersection si on peut le faire sans danger"
+      },
+      {
+        "id": "b",
+        "text": "Toujours accélérer"
+      },
+      {
+        "id": "c",
+        "text": "Freiner brusquement même si c’est dangereux"
+      },
+      {
+        "id": "d",
+        "text": "Considérer le jaune comme un droit garanti de passer"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0028",
+    "language": "fr",
+    "topic": "intersections",
+    "question": "À une intersection avec panneaux d’arrêt, un autre véhicule s’est arrêté avant vous. Que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Céder le passage au véhicule arrivé en premier"
+      },
+      {
+        "id": "b",
+        "text": "Passer en premier parce qu’on s’est arrêté en dernier"
+      },
+      {
+        "id": "c",
+        "text": "Klaxonner jusqu’à ce qu’il cède"
+      },
+      {
+        "id": "d",
+        "text": "Toujours reculer"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0029",
+    "language": "fr",
+    "topic": "intersections",
+    "question": "En sortant d’une entrée privée, qui a priorité?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Les usagers déjà sur la route"
+      },
+      {
+        "id": "b",
+        "text": "Le véhicule qui sort de l’entrée"
+      },
+      {
+        "id": "c",
+        "text": "Le plus gros véhicule"
+      },
+      {
+        "id": "d",
+        "text": "La première personne qui klaxonne"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0030",
+    "language": "fr",
+    "topic": "roundabouts",
+    "question": "Avant d’entrer dans un carrefour giratoire, à qui faut-il céder le passage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Aux usagers déjà dans le carrefour"
+      },
+      {
+        "id": "b",
+        "text": "Aux véhicules qui attendent derrière"
+      },
+      {
+        "id": "c",
+        "text": "Seulement aux véhicules qui entrent par la droite"
+      },
+      {
+        "id": "d",
+        "text": "À personne si on signale"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0031",
+    "language": "fr",
+    "topic": "roundabouts",
+    "question": "De quel côté entre-t-on dans un carrefour giratoire au Québec?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Par la droite"
+      },
+      {
+        "id": "b",
+        "text": "Par la gauche"
+      },
+      {
+        "id": "c",
+        "text": "Dans un sens ou dans l’autre"
+      },
+      {
+        "id": "d",
+        "text": "Tout droit sur l’îlot central"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0032",
+    "language": "fr",
+    "topic": "roundabouts",
+    "question": "Comment faut-il signaler sa sortie d’un carrefour giratoire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Utiliser le clignotant droit"
+      },
+      {
+        "id": "b",
+        "text": "Utiliser le clignotant gauche pendant toute la sortie"
+      },
+      {
+        "id": "c",
+        "text": "Utiliser les feux de détresse"
+      },
+      {
+        "id": "d",
+        "text": "Ne pas signaler"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0033",
+    "language": "fr",
+    "topic": "roundabouts",
+    "question": "En circulant dans un carrefour giratoire, quand devrait-on s’arrêter?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "En cas d’urgence, par exemple pour éviter une collision"
+      },
+      {
+        "id": "b",
+        "text": "Pour consulter son téléphone"
+      },
+      {
+        "id": "c",
+        "text": "Pour laisser entrer chaque véhicule"
+      },
+      {
+        "id": "d",
+        "text": "Dès qu’un véhicule approche d’une entrée"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0034",
+    "language": "fr",
+    "topic": "highway",
+    "question": "En entrant sur une autoroute, à quoi sert la voie d’accélération?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "À adapter sa vitesse et à s’insérer sans danger"
+      },
+      {
+        "id": "b",
+        "text": "À stationner et consulter une carte"
+      },
+      {
+        "id": "c",
+        "text": "À reculer si on manque un espace"
+      },
+      {
+        "id": "d",
+        "text": "À s’arrêter systématiquement avant de s’insérer"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0035",
+    "language": "fr",
+    "topic": "highway",
+    "question": "Avant de s’insérer sur une autoroute, quelles vérifications conviennent?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Regarder devant, vérifier les rétroviseurs et l’angle mort et repérer un espace"
+      },
+      {
+        "id": "b",
+        "text": "Vérifier seulement le rétroviseur intérieur"
+      },
+      {
+        "id": "c",
+        "text": "Regarder seulement le compteur de vitesse"
+      },
+      {
+        "id": "d",
+        "text": "Signaler sans vérifier la circulation"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0036",
+    "language": "fr",
+    "topic": "lane_changes",
+    "question": "Avant de changer de voie, que faut-il faire?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Signaler et s’assurer qu’il y a suffisamment d’espace pour le faire sans danger"
+      },
+      {
+        "id": "b",
+        "text": "Signaler puis se déplacer immédiatement sans regarder"
+      },
+      {
+        "id": "c",
+        "text": "Klaxonner au lieu de signaler"
+      },
+      {
+        "id": "d",
+        "text": "Fermer brièvement les yeux pour éviter les distractions"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0037",
+    "language": "fr",
+    "topic": "lane_changes",
+    "question": "Qu’est-ce qui aide à voir un véhicule caché dans l’angle mort avant un changement de voie?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Un rapide coup d’œil par-dessus l’épaule dans la direction voulue"
+      },
+      {
+        "id": "b",
+        "text": "Le compteur de vitesse seulement"
+      },
+      {
+        "id": "c",
+        "text": "Le rétroviseur intérieur seulement"
+      },
+      {
+        "id": "d",
+        "text": "Le clignotant seulement"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "blind"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0038",
+    "language": "fr",
+    "topic": "parking",
+    "question": "Sauf indication contraire, à quelle distance maximale du bord de la chaussée faut-il stationner?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "30 centimètres"
+      },
+      {
+        "id": "b",
+        "text": "1 mètre"
+      },
+      {
+        "id": "c",
+        "text": "2 mètres"
+      },
+      {
+        "id": "d",
+        "text": "5 mètres"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0039",
+    "language": "fr",
+    "topic": "parking",
+    "question": "Quand le véhicule est stationné en pente, comment faut-il orienter les roues avant?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Pour que le véhicule roule vers le bord le plus proche de la chaussée"
+      },
+      {
+        "id": "b",
+        "text": "Pour qu’il roule dans la circulation"
+      },
+      {
+        "id": "c",
+        "text": "Toujours tout droit"
+      },
+      {
+        "id": "d",
+        "text": "Toujours vers la ligne centrale"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0040",
+    "language": "fr",
+    "topic": "parking",
+    "question": "Sauf nécessité ou autre permission prévue, peut-on immobiliser son véhicule à moins de 3 mètres d’une borne-fontaine?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non"
+      },
+      {
+        "id": "b",
+        "text": "Oui, pour une courte course"
+      },
+      {
+        "id": "c",
+        "text": "Oui, si les feux de détresse sont allumés"
+      },
+      {
+        "id": "d",
+        "text": "Oui, si le conducteur reste dans le véhicule"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0041",
+    "language": "fr",
+    "topic": "parking",
+    "question": "Sauf nécessité ou permission prévue, peut-on s’immobiliser sur un passage pour piétons signalé?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non"
+      },
+      {
+        "id": "b",
+        "text": "Oui, pendant moins d’une minute"
+      },
+      {
+        "id": "c",
+        "text": "Oui, s’il n’y a aucun piéton"
+      },
+      {
+        "id": "d",
+        "text": "Oui, si le moteur reste en marche"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0042",
+    "language": "fr",
+    "topic": "parking",
+    "question": "Sauf nécessité ou autorisation par la signalisation, peut-on s’arrêter sur la chaussée d’un chemin public limité à 70 km/h ou plus?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non"
+      },
+      {
+        "id": "b",
+        "text": "Oui, pour téléphoner"
+      },
+      {
+        "id": "c",
+        "text": "Oui, dès que les feux de détresse sont allumés"
+      },
+      {
+        "id": "d",
+        "text": "Oui, s’il fait jour"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0043",
+    "language": "fr",
+    "topic": "distraction",
+    "question": "Vous êtes arrêté au feu rouge dans la circulation. Pouvez-vous tenir votre téléphone pour lire un message?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Non"
+      },
+      {
+        "id": "b",
+        "text": "Oui, parce que le véhicule est arrêté"
+      },
+      {
+        "id": "c",
+        "text": "Oui, si le message est court"
+      },
+      {
+        "id": "d",
+        "text": "Oui, si le téléphone est tenu sous la fenêtre"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "distraction"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0044",
+    "language": "fr",
+    "topic": "distraction",
+    "question": "Pour quel appel exceptionnel un conducteur peut-il tenir un téléphone?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Un appel d’urgence au 911"
+      },
+      {
+        "id": "b",
+        "text": "Un appel pour organiser un souper"
+      },
+      {
+        "id": "c",
+        "text": "Un appel pour vérifier la circulation"
+      },
+      {
+        "id": "d",
+        "text": "Tout appel de moins d’une minute"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "distraction"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0045",
+    "language": "fr",
+    "topic": "licensing",
+    "question": "Un apprenti de classe 5 pratique sur la route avec un accompagnateur. Depuis combien de temps cet accompagnateur doit-il détenir un permis québécois valide de la classe appropriée?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Depuis au moins deux ans"
+      },
+      {
+        "id": "b",
+        "text": "Depuis au moins six mois"
+      },
+      {
+        "id": "c",
+        "text": "Depuis au moins un an"
+      },
+      {
+        "id": "d",
+        "text": "Aucune durée minimale"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "learner"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0046",
+    "language": "fr",
+    "topic": "conditions",
+    "question": "Que se passe-t-il pendant l’aquaplanage?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Les pneus perdent temporairement le contact avec la chaussée à cause de l’eau"
+      },
+      {
+        "id": "b",
+        "text": "Les freins gagnent de l’adhérence"
+      },
+      {
+        "id": "c",
+        "text": "Les pneus adhèrent en permanence à la chaussée"
+      },
+      {
+        "id": "d",
+        "text": "La chaussée devient sèche sous le véhicule"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0047",
+    "language": "fr",
+    "topic": "visibility",
+    "question": "Où peut-on trouver des angles morts autour d’un véhicule?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "À l’avant, à l’arrière, sur les côtés et derrière les montants du pare-brise"
+      },
+      {
+        "id": "b",
+        "text": "Seulement directement derrière"
+      },
+      {
+        "id": "c",
+        "text": "Seulement du côté passager"
+      },
+      {
+        "id": "d",
+        "text": "Nulle part si les rétroviseurs sont ajustés"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "blind"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  }
+]
