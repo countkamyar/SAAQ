@@ -1,0 +1,191 @@
+[
+  {
+    "id": "sharing",
+    "title": "Sharing the Road",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/automobile/sharing-road",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "courtesy",
+    "title": "Courtesy and Sharing the Road Among Users",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/behaviours/sharing-road/among-users",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "red",
+    "title": "Turning Right at a Red Light: The Basics",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/behaviours/turning-right-red-light/basics",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "pedestrian",
+    "title": "Pedestrians: What the Law Says",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/as-pedestrian/what-the-law-says",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "winter",
+    "title": "Winter Driving",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/behaviours/adapting-driving/winter-driving",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "winterprep",
+    "title": "Winter Preparation",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/automobile/maintenance-safety/winter-preparation",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "belt",
+    "title": "Seat Belts",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/automobile/safety-devices/seat-belts/",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "child",
+    "title": "A Seat and Seat Belt for Every Age",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/client-groups/parents-children/seat-and-seat-belt/",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "alcohol",
+    "title": "Drinking and Driving: Impairment and Consequences",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/automobile/alcohol",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "young",
+    "title": "First Driver’s Licence",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/client-groups/young-drivers/first-driver-licence/",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "school",
+    "title": "Your Obligations Around Schools and School Buses",
+    "url": "https://saaq.gouv.qc.ca/blob/saaq/documents/publications/feuillet-obligations-around-schools-school-buses.pdf",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "handbook",
+    "title": "Driver’s Handbook",
+    "url": "https://saaq.gouv.qc.ca/blob/saaq/documents/publications/drivers-handbook.pdf",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Source text and images are not licensed here; commercial reuse requires rights review and applicable permission. Links are references, not copied assets."
+  },
+  {
+    "id": "roundabout",
+    "title": "What’s New on Québec Roads?",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/client-groups/seniors/whats-new-on-the-road",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "unsafe",
+    "title": "Unsafe and Inappropriate Behaviours",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/behaviours/sharing-road/unsafe-inappropriate-behaviours",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "passenger",
+    "title": "Driving a Passenger Vehicle",
+    "url": "https://saaq.gouv.qc.ca/blob/saaq/documents/publications/driving-passenger-vehicle.pdf",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "code",
+    "title": "Highway Safety Code, sections 382–386 (consolidated September 1, 2025)",
+    "url": "https://www.legisquebec.gouv.qc.ca/en/pdf/cs/C-24.2.pdf",
+    "publisher": "Éditeur officiel du Québec",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "distraction",
+    "title": "Distractions at the wheel: What the Law Says",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/behaviours/distractions/what-law-says",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "blind",
+    "title": "Blind Spots in a Car",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/automobile/blind-spots",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "learner",
+    "title": "Cars and Motorcycles: How to Get Your First Driver’s Licence",
+    "url": "https://saaq.gouv.qc.ca/en/road-safety/client-groups/young-drivers/first-driver-licence",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "basics",
+    "title": "The Basics of Driving",
+    "url": "https://saaq.gouv.qc.ca/en/drivers-licences/driving-course/the-basics-of-driving",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  },
+  {
+    "id": "course3",
+    "title": "Module 3 – The Environment",
+    "url": "https://saaq.gouv.qc.ca/en/drivers-licences/driving-course/automobile/module-3-environment",
+    "publisher": "SAAQ",
+    "language": "en",
+    "accessed_on": "2026-11-18",
+    "rights": "Reference only; no source text or images licensed or reproduced. Confirm applicable rights before reuse."
+  }
+]

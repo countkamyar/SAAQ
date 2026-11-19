@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "qc-class5-0001",
+    "language": "en",
+    "topic": "signals",
+    "question": "On the island of Montréal, may a driver turn right at a red light?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No"
+      },
+      {
+        "id": "b",
+        "text": "Yes, after slowing down"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if no pedestrian is visible"
+      },
+      {
+        "id": "d",
+        "text": "Yes, after midnight"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0002",
+    "language": "en",
+    "topic": "signals",
+    "question": "Where a right turn on red is permitted, what must you do first?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Come to a complete stop"
+      },
+      {
+        "id": "b",
+        "text": "Sound the horn"
+      },
+      {
+        "id": "c",
+        "text": "Enter the crosswalk slowly"
+      },
+      {
+        "id": "d",
+        "text": "Accelerate before checking"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0003",
+    "language": "en",
+    "topic": "signals",
+    "question": "At a red light where a right turn is permitted, must you turn?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No, turn only if you choose to and it is safe"
+      },
+      {
+        "id": "b",
+        "text": "Yes, whenever the driver behind honks"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if no sign prohibits it"
+      },
+      {
+        "id": "d",
+        "text": "Yes, after three seconds"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0004",
+    "language": "en",
+    "topic": "signals",
+    "question": "Before turning right on red where permitted, whom must you yield to?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Road users in or about to enter the intersection"
+      },
+      {
+        "id": "b",
+        "text": "Only vehicles coming from the left"
+      },
+      {
+        "id": "c",
+        "text": "Only pedestrians already halfway across"
+      },
+      {
+        "id": "d",
+        "text": "Nobody after a full stop"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "red"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0005",
+    "language": "en",
+    "topic": "school_bus",
+    "question": "A school bus activates its red flashing lights. What should a driver following it do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Stop more than 5 metres away"
+      },
+      {
+        "id": "b",
+        "text": "Pass slowly on the left"
+      },
+      {
+        "id": "c",
+        "text": "Stop only if children are visible"
+      },
+      {
+        "id": "d",
+        "text": "Sound the horn and proceed"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0006",
+    "language": "en",
+    "topic": "school_bus",
+    "question": "When may you proceed after stopping for a school bus with flashing red lights?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "When the lights are off, the stop sign is retracted, and the way is clear"
+      },
+      {
+        "id": "b",
+        "text": "As soon as the first child boards"
+      },
+      {
+        "id": "c",
+        "text": "When the bus driver opens the door"
+      },
+      {
+        "id": "d",
+        "text": "After waiting five seconds"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0007",
+    "language": "en",
+    "topic": "school_bus",
+    "question": "An approaching school bus has flashing red lights and is separated from your lane by a median. Must you stop for the bus?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No, the median exception applies"
+      },
+      {
+        "id": "b",
+        "text": "Yes, always"
+      },
+      {
+        "id": "c",
+        "text": "Yes, unless there are two lanes"
+      },
+      {
+        "id": "d",
+        "text": "Only at night"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0008",
+    "language": "en",
+    "topic": "school_bus",
+    "question": "A school bus activates its yellow warning lights before stopping. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Prepare to stop"
+      },
+      {
+        "id": "b",
+        "text": "Immediately pass the bus"
+      },
+      {
+        "id": "c",
+        "text": "Accelerate to avoid stopping"
+      },
+      {
+        "id": "d",
+        "text": "Assume children have already crossed"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "school"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0009",
+    "language": "en",
+    "topic": "cyclists",
+    "question": "In a 50 km/h zone, what clearance should you leave when passing a cyclist?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "At least 1 metre, while slowing down"
+      },
+      {
+        "id": "b",
+        "text": "30 centimetres"
+      },
+      {
+        "id": "c",
+        "text": "At least 1.5 metres in every zone"
+      },
+      {
+        "id": "d",
+        "text": "No space if the cyclist is on the shoulder"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0010",
+    "language": "en",
+    "topic": "cyclists",
+    "question": "In a zone over 50 km/h, what clearance should you leave when passing a cyclist?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "At least 1.5 metres, while slowing down"
+      },
+      {
+        "id": "b",
+        "text": "30 centimetres"
+      },
+      {
+        "id": "c",
+        "text": "At least 1 metre"
+      },
+      {
+        "id": "d",
+        "text": "No clearance if you sound the horn"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0011",
+    "language": "en",
+    "topic": "cyclists",
+    "question": "Can you cross a solid line to pass a cyclist?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yes, if it can be done safely"
+      },
+      {
+        "id": "b",
+        "text": "Never under any circumstances"
+      },
+      {
+        "id": "c",
+        "text": "Yes, without checking oncoming traffic"
+      },
+      {
+        "id": "d",
+        "text": "Only if the cyclist waves"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0012",
+    "language": "en",
+    "topic": "cyclists",
+    "question": "Before opening a parked vehicle’s door, what should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Check for approaching cyclists, including the blind spot"
+      },
+      {
+        "id": "b",
+        "text": "Open it quickly to warn cyclists"
+      },
+      {
+        "id": "c",
+        "text": "Rely only on the interior mirror"
+      },
+      {
+        "id": "d",
+        "text": "Sound the horn and open it"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "sharing"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0013",
+    "language": "en",
+    "topic": "pedestrians",
+    "question": "A pedestrian is waiting at a marked crosswalk and clearly intends to cross. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Stop and yield"
+      },
+      {
+        "id": "b",
+        "text": "Proceed because the pedestrian has not stepped off the curb"
+      },
+      {
+        "id": "c",
+        "text": "Honk to make the pedestrian wait"
+      },
+      {
+        "id": "d",
+        "text": "Accelerate through the crossing"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "pedestrian"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0014",
+    "language": "en",
+    "topic": "pedestrians",
+    "question": "What does a steady orange hand at a pedestrian signal mean?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Do not start crossing"
+      },
+      {
+        "id": "b",
+        "text": "Cross immediately"
+      },
+      {
+        "id": "c",
+        "text": "Cross only while running"
+      },
+      {
+        "id": "d",
+        "text": "Vehicles must stop for an unlimited time"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "pedestrian"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0015",
+    "language": "en",
+    "topic": "conditions",
+    "question": "What should a driver do when the road is slippery?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Reduce speed and adapt to conditions"
+      },
+      {
+        "id": "b",
+        "text": "Keep the posted limit regardless of conditions"
+      },
+      {
+        "id": "c",
+        "text": "Brake sharply in every curve"
+      },
+      {
+        "id": "d",
+        "text": "Follow more closely"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "winter"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0016",
+    "language": "en",
+    "topic": "conditions",
+    "question": "For a Québec-registered passenger car, when are winter tires generally mandatory?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "December 1 through March 15 inclusive"
+      },
+      {
+        "id": "b",
+        "text": "November 1 through April 30"
+      },
+      {
+        "id": "c",
+        "text": "Only when snow is falling"
+      },
+      {
+        "id": "d",
+        "text": "January 1 through February 28"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "winterprep"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0017",
+    "language": "en",
+    "topic": "occupants",
+    "question": "Generally, until when must a child use an appropriate child safety seat?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Until 145 cm tall or 9 years old"
+      },
+      {
+        "id": "b",
+        "text": "Until 18 years old regardless of height"
+      },
+      {
+        "id": "c",
+        "text": "Only until the child can walk"
+      },
+      {
+        "id": "d",
+        "text": "Until 145 cm tall and 12 years old"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "child"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0018",
+    "language": "en",
+    "topic": "occupants",
+    "question": "Where should a properly positioned shoulder belt pass?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Across the middle of the shoulder and chest"
+      },
+      {
+        "id": "b",
+        "text": "Under the arm"
+      },
+      {
+        "id": "c",
+        "text": "Behind the back"
+      },
+      {
+        "id": "d",
+        "text": "Across the neck"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "belt"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0019",
+    "language": "en",
+    "topic": "impairment",
+    "question": "Can alcohol impair driving before a person reaches a blood alcohol concentration of 0.08?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yes, impairment can occur below that level"
+      },
+      {
+        "id": "b",
+        "text": "No, impairment begins exactly at 0.08"
+      },
+      {
+        "id": "c",
+        "text": "No, coffee prevents impairment"
+      },
+      {
+        "id": "d",
+        "text": "Only after midnight"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "alcohol"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0020",
+    "language": "en",
+    "topic": "impairment",
+    "question": "Does the zero-alcohol rule apply to a driver under 22 who holds a regular licence?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yes"
+      },
+      {
+        "id": "b",
+        "text": "No, only to learner drivers"
+      },
+      {
+        "id": "c",
+        "text": "No, if driving during the day"
+      },
+      {
+        "id": "d",
+        "text": "Only when carrying passengers"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "young"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0021",
+    "language": "en",
+    "topic": "sharing",
+    "question": "An emergency vehicle approaches with its lights or siren operating. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yield the right of way"
+      },
+      {
+        "id": "b",
+        "text": "Race ahead to clear the intersection"
+      },
+      {
+        "id": "c",
+        "text": "Maintain speed and block its lane"
+      },
+      {
+        "id": "d",
+        "text": "Follow closely behind it"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "courtesy"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0022",
+    "language": "en",
+    "topic": "sharing",
+    "question": "On a road with a speed limit of 70 km/h or less, a bus signals its intention to merge into your lane. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yield to the bus"
+      },
+      {
+        "id": "b",
+        "text": "Accelerate to prevent it merging"
+      },
+      {
+        "id": "c",
+        "text": "Honk and maintain position"
+      },
+      {
+        "id": "d",
+        "text": "Yield only if it is a school bus"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "courtesy"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0023",
+    "language": "en",
+    "topic": "signs",
+    "question": "What must you do at the illustrated sign?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Come to a complete stop"
+      },
+      {
+        "id": "b",
+        "text": "Slow down without stopping"
+      },
+      {
+        "id": "c",
+        "text": "Stop only when another vehicle approaches"
+      },
+      {
+        "id": "d",
+        "text": "Proceed if you sound the horn"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/stop.svg",
+      "asset_id": "stop"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0024",
+    "language": "en",
+    "topic": "signs",
+    "question": "What does the illustrated sign indicate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Entry is prohibited"
+      },
+      {
+        "id": "b",
+        "text": "Parking is permitted"
+      },
+      {
+        "id": "c",
+        "text": "A stop is optional"
+      },
+      {
+        "id": "d",
+        "text": "The road is reserved for buses"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/no-entry.svg",
+      "asset_id": "no-entry"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0025",
+    "language": "en",
+    "topic": "signals",
+    "question": "At an intersection, what does a flashing red light require?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Stop and yield as required before proceeding"
+      },
+      {
+        "id": "b",
+        "text": "Slow down without stopping"
+      },
+      {
+        "id": "c",
+        "text": "Proceed immediately"
+      },
+      {
+        "id": "d",
+        "text": "Treat it as a green light"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/flashing-red.svg",
+      "asset_id": "flashing-red"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0026",
+    "language": "en",
+    "topic": "signals",
+    "question": "What should you do at a flashing yellow light?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Slow down and yield to users already in the intersection"
+      },
+      {
+        "id": "b",
+        "text": "Stop in every case and wait for green"
+      },
+      {
+        "id": "c",
+        "text": "Accelerate to clear the intersection"
+      },
+      {
+        "id": "d",
+        "text": "Ignore other road users"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "handbook"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": {
+      "path": "images/flashing-yellow.svg",
+      "asset_id": "flashing-yellow"
+    },
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0027",
+    "language": "en",
+    "topic": "signals",
+    "question": "The traffic light turns yellow as you approach. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Slow down and stop before the intersection if you can safely do so"
+      },
+      {
+        "id": "b",
+        "text": "Always accelerate"
+      },
+      {
+        "id": "c",
+        "text": "Stop abruptly even if unsafe"
+      },
+      {
+        "id": "d",
+        "text": "Treat yellow as a guaranteed right to enter"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0028",
+    "language": "en",
+    "topic": "intersections",
+    "question": "At an intersection with stop signs, another vehicle stopped before you. What should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Yield to the vehicle that arrived first"
+      },
+      {
+        "id": "b",
+        "text": "Proceed first because you stopped last"
+      },
+      {
+        "id": "c",
+        "text": "Honk until it yields"
+      },
+      {
+        "id": "d",
+        "text": "Always reverse"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0029",
+    "language": "en",
+    "topic": "intersections",
+    "question": "When leaving a private driveway, who has priority?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Road users already on the roadway"
+      },
+      {
+        "id": "b",
+        "text": "The vehicle leaving the driveway"
+      },
+      {
+        "id": "c",
+        "text": "The largest vehicle"
+      },
+      {
+        "id": "d",
+        "text": "Whoever sounds the horn first"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0030",
+    "language": "en",
+    "topic": "roundabouts",
+    "question": "Before entering a roundabout, whom must you yield to?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Traffic already in the roundabout"
+      },
+      {
+        "id": "b",
+        "text": "Vehicles waiting behind you"
+      },
+      {
+        "id": "c",
+        "text": "Only vehicles entering from your right"
+      },
+      {
+        "id": "d",
+        "text": "Nobody if you signal"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0031",
+    "language": "en",
+    "topic": "roundabouts",
+    "question": "Which way do you enter a Québec roundabout?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "To the right"
+      },
+      {
+        "id": "b",
+        "text": "To the left"
+      },
+      {
+        "id": "c",
+        "text": "Either direction"
+      },
+      {
+        "id": "d",
+        "text": "Straight across the central island"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0032",
+    "language": "en",
+    "topic": "roundabouts",
+    "question": "How should you signal when leaving a roundabout?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Use the right turn signal"
+      },
+      {
+        "id": "b",
+        "text": "Use the left turn signal throughout the exit"
+      },
+      {
+        "id": "c",
+        "text": "Use hazard lights"
+      },
+      {
+        "id": "d",
+        "text": "Do not signal"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0033",
+    "language": "en",
+    "topic": "roundabouts",
+    "question": "While travelling in a roundabout, when should you stop?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "For an emergency, such as avoiding a collision"
+      },
+      {
+        "id": "b",
+        "text": "To check a phone"
+      },
+      {
+        "id": "c",
+        "text": "To let a vehicle enter ahead in every case"
+      },
+      {
+        "id": "d",
+        "text": "Whenever another vehicle approaches an entrance"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "roundabout"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0034",
+    "language": "en",
+    "topic": "highway",
+    "question": "When entering an expressway, what is the purpose of the acceleration lane?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "To adjust speed and merge safely with traffic"
+      },
+      {
+        "id": "b",
+        "text": "To park and consult a map"
+      },
+      {
+        "id": "c",
+        "text": "To reverse if you miss a gap"
+      },
+      {
+        "id": "d",
+        "text": "To stop routinely before joining traffic"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0035",
+    "language": "en",
+    "topic": "highway",
+    "question": "Before merging onto an expressway, which checks are appropriate?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Look ahead, check mirrors and the blind spot, and identify a gap"
+      },
+      {
+        "id": "b",
+        "text": "Check only the rear-view mirror"
+      },
+      {
+        "id": "c",
+        "text": "Look only at the speedometer"
+      },
+      {
+        "id": "d",
+        "text": "Signal without checking traffic"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0036",
+    "language": "en",
+    "topic": "lane_changes",
+    "question": "Before changing lanes, what should you do?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Signal and make sure there is sufficient safe space"
+      },
+      {
+        "id": "b",
+        "text": "Signal and immediately move regardless of traffic"
+      },
+      {
+        "id": "c",
+        "text": "Honk instead of signalling"
+      },
+      {
+        "id": "d",
+        "text": "Close your eyes briefly to avoid distraction"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "unsafe"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0037",
+    "language": "en",
+    "topic": "lane_changes",
+    "question": "What helps reveal a vehicle hidden in your blind spot before a lane change?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A quick head check in the intended direction"
+      },
+      {
+        "id": "b",
+        "text": "The speedometer alone"
+      },
+      {
+        "id": "c",
+        "text": "Only the interior mirror"
+      },
+      {
+        "id": "d",
+        "text": "The turn signal alone"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "blind"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0038",
+    "language": "en",
+    "topic": "parking",
+    "question": "Unless otherwise indicated, how close to the near edge of the road must a vehicle be parked?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "30 centimetres"
+      },
+      {
+        "id": "b",
+        "text": "1 metre"
+      },
+      {
+        "id": "c",
+        "text": "2 metres"
+      },
+      {
+        "id": "d",
+        "text": "5 metres"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0039",
+    "language": "en",
+    "topic": "parking",
+    "question": "When parked on a slope, how should the front wheels be positioned?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "So the vehicle would roll toward the near edge of the road"
+      },
+      {
+        "id": "b",
+        "text": "So it would roll into traffic"
+      },
+      {
+        "id": "c",
+        "text": "Straight ahead in every case"
+      },
+      {
+        "id": "d",
+        "text": "Toward the centre line in every case"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0040",
+    "language": "en",
+    "topic": "parking",
+    "question": "Except when necessary or otherwise permitted, may you stop less than 3 metres from a fire hydrant?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No"
+      },
+      {
+        "id": "b",
+        "text": "Yes, for any short errand"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if the hazard lights are on"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if the driver stays in the vehicle"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0041",
+    "language": "en",
+    "topic": "parking",
+    "question": "Except in a case of necessity or where permitted, may you stop on a marked pedestrian crosswalk?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No"
+      },
+      {
+        "id": "b",
+        "text": "Yes, for less than one minute"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if no pedestrian is present"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if the engine remains running"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0042",
+    "language": "en",
+    "topic": "parking",
+    "question": "Except when necessary or authorized by signs, may you stop on the roadway of a public highway with a limit of 70 km/h or more?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No"
+      },
+      {
+        "id": "b",
+        "text": "Yes, for a phone call"
+      },
+      {
+        "id": "c",
+        "text": "Yes, whenever hazard lights are on"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if it is daytime"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "code"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "current_law_check_required"
+  },
+  {
+    "id": "qc-class5-0043",
+    "language": "en",
+    "topic": "distraction",
+    "question": "You are stopped at a red light in traffic. May you hold your phone to read a message?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "No"
+      },
+      {
+        "id": "b",
+        "text": "Yes, because the car is stopped"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if the message is short"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if you hold it below the window"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "distraction"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0044",
+    "language": "en",
+    "topic": "distraction",
+    "question": "Which exceptional call may a driver make while holding a phone?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "A 911 emergency call"
+      },
+      {
+        "id": "b",
+        "text": "A call to arrange dinner"
+      },
+      {
+        "id": "c",
+        "text": "A call to check traffic"
+      },
+      {
+        "id": "d",
+        "text": "Any call shorter than one minute"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "distraction"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0045",
+    "language": "en",
+    "topic": "licensing",
+    "question": "A Class 5 learner is practising on the road with an accompanying rider. How long must that rider have held a valid Québec licence of the appropriate class?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "At least two years"
+      },
+      {
+        "id": "b",
+        "text": "At least six months"
+      },
+      {
+        "id": "c",
+        "text": "At least one year"
+      },
+      {
+        "id": "d",
+        "text": "No minimum period"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "learner"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0046",
+    "language": "en",
+    "topic": "conditions",
+    "question": "What happens during hydroplaning?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "Tires temporarily lose contact with the road because of water"
+      },
+      {
+        "id": "b",
+        "text": "The brakes gain extra traction"
+      },
+      {
+        "id": "c",
+        "text": "The tires permanently bond to the road"
+      },
+      {
+        "id": "d",
+        "text": "The road becomes dry beneath the vehicle"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "passenger"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  },
+  {
+    "id": "qc-class5-0047",
+    "language": "en",
+    "topic": "visibility",
+    "question": "Where can blind spots exist around a vehicle?",
+    "choices": [
+      {
+        "id": "a",
+        "text": "At the front, rear, sides and behind windshield pillars"
+      },
+      {
+        "id": "b",
+        "text": "Only directly behind"
+      },
+      {
+        "id": "c",
+        "text": "Only on the passenger side"
+      },
+      {
+        "id": "d",
+        "text": "Nowhere if mirrors are adjusted"
+      }
+    ],
+    "correct_choice_id": "a",
+    "source_ids": [
+      "blind"
+    ],
+    "authorship": "original_practice_question",
+    "source_reviewed_on": "2026-11-18",
+    "image": null,
+    "review_status": "source_checked_editorial_review_pending"
+  }
+]
